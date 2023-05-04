@@ -74,8 +74,14 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaylin16&theme=merko&bg_color==25,fff,E7F5DF">
-  <br>
-  <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaylin16">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaylin16&theme=nightowl" width = "51%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaylin16&show_icons=true&theme=nightowl&layout=compact" width = "48%">
+</div>
+
+<br><br><br>
+
+<div align=center> 
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaylin16&count_bg=%23182510&title_bg=%23844EFF&icon=gradle.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
